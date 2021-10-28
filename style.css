@@ -1,5 +1,5 @@
 /* MOBILE VERSION */
-@media (min-width: 375px) {
+
   .navbar {
     background-color: black;
     box-shadow: 2px 5px 5px rgb(100, 100, 100);
@@ -112,7 +112,7 @@
     margin-bottom: 100px;
     font-size: large;
   }
-}
+
 
 /* DEKSTOP VERSION */
 @media (min-width: 992px) {
